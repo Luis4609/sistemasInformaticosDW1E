@@ -2,3 +2,5 @@
 
 - Ejercicios Tema 1: Done
 - Ejercicios Tema 2: Not finish
+- Ejercicios Tema 3: Starting
+
