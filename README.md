@@ -4,6 +4,8 @@
 - Ejercicios Tema 2: Not finish
 - Ejercicios Tema 3: Starting
 - Ejercicios Tema 4:
-- Ejercicios Tema 5:  - 1.Managing directories
+- Ejercicios Tema 5: 
+1.  Managing directories
+2. User and groups
 
 
