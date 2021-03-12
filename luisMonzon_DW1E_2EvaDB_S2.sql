@@ -156,6 +156,10 @@ from students
 where tuitionCost < 1200;
 
 -- 24
+select nameStudent 'Student name', tuitionCost 'Tuition Cost'
+from students
+where (dateOfBirth, tuitionCost) =(select max(dateOfBirth), min(tuitionCost) from students);
+
 
 
 -- 25
